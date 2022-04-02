@@ -1,8 +1,5 @@
 package com.geekbrains.lesson1.practice6;
 
-import java.sql.SQLOutput;
-import java.util.Objects;
-
 public  class Animal {
 
     static int a = 0;

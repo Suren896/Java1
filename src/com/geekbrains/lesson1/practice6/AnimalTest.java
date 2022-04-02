@@ -9,9 +9,9 @@ public class AnimalTest {
         Cat cat = new Cat("Мурзик", 7);
         Animal.a ++;
 
-       dog.run(1350);
+        dog.run(1350);
         dog.swim(4);
-       cat.run(100);
+        cat.run(100);
         cat.swim(2);
 
         System.out.println(Animal.a);

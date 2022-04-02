@@ -1,5 +1,6 @@
 package com.geekbrains.lesson1.practice6;
 
+
 public class Dog extends Animal {
 
     private String type;
